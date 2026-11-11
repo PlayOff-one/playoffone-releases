@@ -1,0 +1,10 @@
+{
+  "en": [
+    "Fixed: \"Continue with Google\" opened File Explorer instead of your browser",
+    "If your browser doesn't open, the sign-in link can be copied and pasted into any browser"
+  ],
+  "he": [
+    "תוקן: \"המשך עם Google\" פתח את סייר הקבצים במקום את הדפדפן",
+    "אם הדפדפן לא נפתח, אפשר להעתיק את קישור ההתחברות ולהדביק אותו בכל דפדפן"
+  ]
+}
