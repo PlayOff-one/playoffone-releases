@@ -1,11 +1,11 @@
 {
-  "version": "0.5.0",
-  "notes": "- Home now shows the server status, your play time and what's new\n- Library, and a Raidline page with Clear game cache and Repair FiveM\n- Tray icon: open the launcher, play Raidline or quit from the corner of the taskbar\n- Settings: start with Windows, what the close button does, check for updates\n- When nobody is online yet, Play says so instead of showing 0\n- A performance log (perf.log in the logs folder)",
-  "pub_date": "2026-11-11T17:00:47.832Z",
+  "version": "0.5.1",
+  "notes": "- Home: a Community card with a button to join our Discord",
+  "pub_date": "2026-11-11T17:28:04.743Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR2U5cmlDNU5HYmF5dGdqYUd2d0ZFUFJ1Yjl6aWc4eHZINXI4YUliaitQa0VJcWROOGtFdE45TkRmbXQ0UjNGelJFUk1Zd2xzd285T25RWW9jQVU4b2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDE2MjQ5CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpGcW1rdXdDd2xYcDB3YXNOZStBWmZoQmoycTdSMnJZRzd6R00zMG9BeXVPb2lIWGFCaWFXQmxOSnlYbzNDY3JvbzkrZER5KzQ5T1BaUExpZGptTmdEQT09Cg==",
-      "url": "https://raw.githubusercontent.com/TurjemanDev/playoffone-releases/main/v0.5.0/PlayOffOneSetup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1VBRVU4OEE4TlRYbHQrM3ZVN0xuZkZ0U0lRbGJHc3BucWZxa1kwQ3RvSENmZkswNlJCeWR6RURLZG9zelM4UWpRa1FvRDVXTFgrY3h5RTc4Q2dncnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDE4MDUwCWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpZTjJHd3Z6WDIxM2hKckFhYllYRTczd0FhSnlRaFF3cUNRc0VhMkc1VHF6TE1BR2ZGSncyWmJ5SUEzN2xFdExQNFRwbG9LQi94MHVJYmpiM2p1aDZBUT09Cg==",
+      "url": "https://raw.githubusercontent.com/TurjemanDev/playoffone-releases/main/v0.5.1/PlayOffOneSetup.exe"
     }
   }
 }
