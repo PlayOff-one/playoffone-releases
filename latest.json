@@ -1,0 +1,11 @@
+{
+  "version": "0.3.0",
+  "notes": "",
+  "pub_date": "2026-11-11T15:22:10.028Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1EvWHpRVWJvdzFraWtNVkhzUjNXY0Z0UDNRWW1ScVY1WHR2V3YydlNVMDZKWGcrZjhSR0VYMnRObjZtK2FpaDVDRW5aOHRSSWplV0UyTnF4YUVINHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDEwMzUyCWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQo3dDFBZWZ3MmJ2Zk1BQzY3M01qVUJnc09abG8vZWd1ZWlkMmRZcS9CNkxGZzljTHVSZVJMZ2I1SWNVOUVGVXl4N2lXMVFGaFVqa2tGUXZocEY1OTRCdz09Cg==",
+      "url": "https://raw.githubusercontent.com/TurjemanDev/playoffone-releases/main/v0.3.0/PlayOffOneSetup.exe"
+    }
+  }
+}
