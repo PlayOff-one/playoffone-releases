@@ -1,0 +1,14 @@
+{
+  "en": [
+    "Friends: add friends by @username, accept or decline requests, see who's online and who's playing",
+    "Friend requests badge, friend profiles, remove or block a player",
+    "Settings → Account: Appear offline",
+    "Friends refresh only while the panel is open, and never while you play"
+  ],
+  "he": [
+    "חברים: הוספת חברים לפי @שם משתמש, אישור או דחייה של בקשות, מי מחובר ומי משחק",
+    "תג בקשות חברות, פרופילים של חברים, הסרה או חסימה של שחקן",
+    "הגדרות ← חשבון: הופעה כלא מחובר",
+    "רשימת החברים מתעדכנת רק כשהחלונית פתוחה, ואף פעם לא בזמן משחק"
+  ]
+}

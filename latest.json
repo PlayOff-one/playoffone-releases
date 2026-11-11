@@ -1,11 +1,11 @@
 {
-  "version": "0.6.3",
-  "notes": "- After signing in you go straight to the right screen (no flash of Home before choosing your name)\n- Feels like an app: no text selection, dragging, right-click menu, browser shortcuts or zoom keys\n- Each screen opens with its first button ready; the focus ring shows only when you use the keyboard\n- Your first username choice no longer starts the 30-day wait",
-  "pub_date": "2026-11-11T19:34:44.011Z",
+  "version": "0.7.0",
+  "notes": "- Friends: add friends by @username, accept or decline requests, see who's online and who's playing\n- Friend requests badge, friend profiles, remove or block a player\n- Settings → Account: Appear offline\n- Friends refresh only while the panel is open, and never while you play",
+  "pub_date": "2026-11-11T21:26:05.844Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR2Y3dFV3Z2p4QUlkRDlDOVhMZkJTSW5YZzVZbkpUTkNjUGcxa0hXOEQ0NWdXK215c3lKMHJTY2UvdmtuS0JqVXdxUW00aVU1NXZ6NE8yMzRJT3dFaFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDI1NjQ1CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpRcVdGVWZGWVBvRjVhMEZZUTFrNU5LeGV5RVNPT0REK3hEc0swZ3hjZXlic0VhTWE1NUZqMkVCVnB6cTBnTFZYLzRYOVF4QldBM3hDbHNqTkgvR0NCZz09Cg==",
-      "url": "https://raw.githubusercontent.com/TurjemanDev/playoffone-releases/main/v0.6.3/PlayOffOneSetup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1NQM25rTjJjVzdrbGROMkM3U2QzNXNWMlhzZEw4MnJEYnk2c1oxNjdKays4VzhkQnY5S2dwYTdEeUdQM290WVRkdUt2SWl5N2FET1lpRDZRZmhrYWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDMyMzMwCWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpaeWsvMXExdHdVeTludU01dE1LczJ4K1djbkJiM1FRcDc3THdoaU5uTTR6dG9ld3BKZ2ordW8zUGFWT2hDOTlMYWQvcmVIYW84ZHJMY2JRRDlUNktEQT09Cg==",
+      "url": "https://raw.githubusercontent.com/TurjemanDev/playoffone-releases/main/v0.7.0/PlayOffOneSetup.exe"
     }
   }
 }
