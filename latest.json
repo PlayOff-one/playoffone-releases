@@ -1,11 +1,11 @@
 {
-  "version": "0.6.2",
-  "notes": "- Only one copy runs: opening PlayOff One again brings the running window to the front (also from the tray)\n- Updates close a running copy cleanly before replacing files, so they no longer fail when the launcher is in the tray\n- Sign-in screen: \"Check for updates\" next to the version\n- Fixed: \"Continue with Google\" opened File Explorer instead of your browser (from 0.6.1)",
-  "pub_date": "2026-11-11T19:11:50.439Z",
+  "version": "0.6.3",
+  "notes": "- After signing in you go straight to the right screen (no flash of Home before choosing your name)\n- Feels like an app: no text selection, dragging, right-click menu, browser shortcuts or zoom keys\n- Each screen opens with its first button ready; the focus ring shows only when you use the keyboard\n- Your first username choice no longer starts the 30-day wait",
+  "pub_date": "2026-11-11T19:34:44.011Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR2RJN2NsTFhjV3UrSDBpNU1oSS84YWd2QVcwdVZjR1BxMGYxWEVmTUtGWS9GTGJnOTEzclpjRHBpc2QycFpEWk9pTnJpQUZhOUk0Sllma0NwbUlwZHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDI0MTY3CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpzS3hvbzhBTVdxQUFmZ3pXZUZUYUtBNUsvY00vNFNCaWJSdFI2TTdIUXdjTEJ1RTJlVHhmTjdVbkd2WkRvYVIzbkZvNkp0bFBtOWl3L3A1TklXdzNCQT09Cg==",
-      "url": "https://raw.githubusercontent.com/TurjemanDev/playoffone-releases/main/v0.6.2/PlayOffOneSetup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR2Y3dFV3Z2p4QUlkRDlDOVhMZkJTSW5YZzVZbkpUTkNjUGcxa0hXOEQ0NWdXK215c3lKMHJTY2UvdmtuS0JqVXdxUW00aVU1NXZ6NE8yMzRJT3dFaFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDI1NjQ1CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpRcVdGVWZGWVBvRjVhMEZZUTFrNU5LeGV5RVNPT0REK3hEc0swZ3hjZXlic0VhTWE1NUZqMkVCVnB6cTBnTFZYLzRYOVF4QldBM3hDbHNqTkgvR0NCZz09Cg==",
+      "url": "https://raw.githubusercontent.com/TurjemanDev/playoffone-releases/main/v0.6.3/PlayOffOneSetup.exe"
     }
   }
 }
