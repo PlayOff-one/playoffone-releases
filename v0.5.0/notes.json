@@ -1,0 +1,18 @@
+{
+  "en": [
+    "Home now shows the server status, your play time and what's new",
+    "Library, and a Raidline page with Clear game cache and Repair FiveM",
+    "Tray icon: open the launcher, play Raidline or quit from the corner of the taskbar",
+    "Settings: start with Windows, what the close button does, check for updates",
+    "When nobody is online yet, Play says so instead of showing 0",
+    "A performance log (perf.log in the logs folder)"
+  ],
+  "he": [
+    "בבית: מצב השרת, זמן המשחק שלך ומה חדש",
+    "ספרייה, ועמוד Raidline עם ניקוי מטמון המשחק ותיקון FiveM",
+    "סמל במגש המערכת: פתיחת הלאנצ'ר, משחק ב־Raidline או יציאה מפינת שורת המשימות",
+    "הגדרות: הפעלה עם Windows, מה עושה כפתור הסגירה, בדיקת עדכונים",
+    "כשאף אחד עוד לא מחובר, כפתור המשחק אומר את זה במקום להציג 0",
+    "יומן ביצועים (perf.log בתיקיית היומנים)"
+  ]
+}
