@@ -1,11 +1,11 @@
 {
-  "version": "0.5.1",
-  "notes": "- Home: a Community card with a button to join our Discord",
-  "pub_date": "2026-11-11T17:28:04.743Z",
+  "version": "0.6.0",
+  "notes": "- Accounts: sign in with Google (your browser opens; the launcher never sees your password)\n- Pick your display name and @username the first time you sign in\n- Your profile: edit your name, change your username once every 30 days, copy your ID\n- Avatar menu in the top bar and Settings → Account, with Sign out",
+  "pub_date": "2026-11-11T18:21:28.041Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1VBRVU4OEE4TlRYbHQrM3ZVN0xuZkZ0U0lRbGJHc3BucWZxa1kwQ3RvSENmZkswNlJCeWR6RURLZG9zelM4UWpRa1FvRDVXTFgrY3h5RTc4Q2dncnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDE4MDUwCWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpZTjJHd3Z6WDIxM2hKckFhYllYRTczd0FhSnlRaFF3cUNRc0VhMkc1VHF6TE1BR2ZGSncyWmJ5SUEzN2xFdExQNFRwbG9LQi94MHVJYmpiM2p1aDZBUT09Cg==",
-      "url": "https://raw.githubusercontent.com/TurjemanDev/playoffone-releases/main/v0.5.1/PlayOffOneSetup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1Y3Z0hYTjdKUnVpZzc3djVSNTc2TjBsVnQrMFFDRkJibHhndHBvREw2MTJ3ZUJaV3lzKzJDK3QxMS9TblVCb1NKK1FGL2JObWJJeU5uSWc5Q0wydFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDIxMDgzCWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQowZkZkZEk0SHlzQUpYb1JIaEEva3hnL0xTdE4zczg0bnFTbCtHV21PVHhmTFBMaGNDdjR2TzRpWEdQcWF5N1VVdG4xQVQ1Q3ZHandwUVdUaGFDZk9Cdz09Cg==",
+      "url": "https://raw.githubusercontent.com/TurjemanDev/playoffone-releases/main/v0.6.0/PlayOffOneSetup.exe"
     }
   }
 }

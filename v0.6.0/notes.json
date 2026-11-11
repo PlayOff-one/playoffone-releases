@@ -1,0 +1,14 @@
+{
+  "en": [
+    "Accounts: sign in with Google (your browser opens; the launcher never sees your password)",
+    "Pick your display name and @username the first time you sign in",
+    "Your profile: edit your name, change your username once every 30 days, copy your ID",
+    "Avatar menu in the top bar and Settings → Account, with Sign out"
+  ],
+  "he": [
+    "חשבונות: התחברות עם Google (הדפדפן נפתח; הלאנצ'ר לא רואה את הסיסמה שלך)",
+    "בחירת שם תצוגה ו־@שם משתמש בהתחברות הראשונה",
+    "הפרופיל שלך: עריכת השם, החלפת שם המשתמש פעם ב־30 יום, העתקת המזהה",
+    "תפריט אווטאר בסרגל העליון והגדרות ← חשבון, עם התנתקות"
+  ]
+}
