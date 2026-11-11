@@ -1,0 +1,14 @@
+{
+  "en": [
+    "Only one copy runs: opening PlayOff One again brings the running window to the front (also from the tray)",
+    "Updates close a running copy cleanly before replacing files, so they no longer fail when the launcher is in the tray",
+    "Sign-in screen: \"Check for updates\" next to the version",
+    "Fixed: \"Continue with Google\" opened File Explorer instead of your browser (from 0.6.1)"
+  ],
+  "he": [
+    "רק עותק אחד רץ: פתיחה חוזרת של PlayOff One מביאה את החלון הפתוח לחזית (גם ממגש המערכת)",
+    "עדכונים סוגרים עותק פתוח בצורה מסודרת לפני החלפת הקבצים, כך שהם כבר לא נכשלים כשהלאנצ'ר במגש",
+    "מסך ההתחברות: \"בדוק עדכונים\" ליד מספר הגרסה",
+    "תוקן: \"המשך עם Google\" פתח את סייר הקבצים במקום את הדפדפן (מ־0.6.1)"
+  ]
+}

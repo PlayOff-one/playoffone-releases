@@ -1,11 +1,11 @@
 {
-  "version": "0.6.1",
-  "notes": "- Fixed: \"Continue with Google\" opened File Explorer instead of your browser\n- If your browser doesn't open, the sign-in link can be copied and pasted into any browser",
-  "pub_date": "2026-11-11T18:49:00.391Z",
+  "version": "0.6.2",
+  "notes": "- Only one copy runs: opening PlayOff One again brings the running window to the front (also from the tray)\n- Updates close a running copy cleanly before replacing files, so they no longer fail when the launcher is in the tray\n- Sign-in screen: \"Check for updates\" next to the version\n- Fixed: \"Continue with Google\" opened File Explorer instead of your browser (from 0.6.1)",
+  "pub_date": "2026-11-11T19:11:50.439Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR2NleHQwWjgya3phZlpiZ0tMaTQ1UDZ2RXlmQng4T0Nzb2NqZEpqaVZPUVcxUzhiQVc5TDFrWVZ5VFV0YitRRk1kNDArMWFiU2pNWlZmeDRNR0xMSUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDIyNzY1CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpvSGgvN0tzUkxVY1lWVWVFbzJIM2ZPOFdCblF4NFVoc3NPckh0RGNBT1ovb3Znd2pjR0ljaE80aWZvU1FmejVsMVl5TVJJK0ZlMjJHZEhVYU15WE1BQT09Cg==",
-      "url": "https://raw.githubusercontent.com/TurjemanDev/playoffone-releases/main/v0.6.1/PlayOffOneSetup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR2RJN2NsTFhjV3UrSDBpNU1oSS84YWd2QVcwdVZjR1BxMGYxWEVmTUtGWS9GTGJnOTEzclpjRHBpc2QycFpEWk9pTnJpQUZhOUk0Sllma0NwbUlwZHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDI0MTY3CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpzS3hvbzhBTVdxQUFmZ3pXZUZUYUtBNUsvY00vNFNCaWJSdFI2TTdIUXdjTEJ1RTJlVHhmTjdVbkd2WkRvYVIzbkZvNkp0bFBtOWl3L3A1TklXdzNCQT09Cg==",
+      "url": "https://raw.githubusercontent.com/TurjemanDev/playoffone-releases/main/v0.6.2/PlayOffOneSetup.exe"
     }
   }
 }
