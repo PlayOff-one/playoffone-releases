@@ -1,11 +1,11 @@
 {
-  "version": "0.3.1",
+  "version": "0.4.0",
   "notes": "",
-  "pub_date": "2026-11-11T15:31:47.592Z",
+  "pub_date": "2026-11-11T16:23:17.699Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR2FDK3U1RW5QTi8zQjBITTVyTXNsV0dsZEx2amI1TzhhbmExRFNGVkNhTmdnanZxOWFaa2pVY0NlRWllOU40NFVOZmIrNVh1MmZJM3pRZk1oZHNiRWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDExMDYwCWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQo4UUY0bnNiUUNvNEVrWTJjNWYxTXMyKzhVMmJNKzRmdnM2cUJ3S3NweHRZczhXTVE0aUhRVnpkQnNpUndLWHN4b3NTbVBxN3hVV1dXSGRLcFhTTjVBZz09Cg==",
-      "url": "https://raw.githubusercontent.com/TurjemanDev/playoffone-releases/main/v0.3.1/PlayOffOneSetup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1Q5eUhOcjduM0xWZHNpQmhkNG40WFpSbTNxN3lLdEx3OTAydkFiV3NZRStTbWZ0bXF3Tnc5Q0FaYXozZlpFT0lacENMR3NYeXk1Qms2WDllRnoxSXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDE0MDg0CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpZOGFlM05raHBMUlRtQ0k4dm1hYUp6bUozVmJpWURxejc5VFJHNGFHODdKWnFTWmFCUnNFdzV5NlFMQWU5ZkRIVHJFbnZ5eW1tVG5DTjVkbUtFZnFCQT09Cg==",
+      "url": "https://raw.githubusercontent.com/TurjemanDev/playoffone-releases/main/v0.4.0/PlayOffOneSetup.exe"
     }
   }
 }
