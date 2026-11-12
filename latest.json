@@ -1,11 +1,11 @@
 {
-  "version": "0.8.1",
-  "notes": "- Updates now come from PlayOff One's own release channel. Nothing changes for you.",
-  "pub_date": "2026-11-12T14:04:36.277Z",
+  "version": "0.9.0",
+  "notes": "- Raidline now runs in its own window, like on Steam: the launcher steps aside when you press Play, and the tray icon, the desktop shortcut or Alt+Tab bring it back\n- Settings → General → \"When a game starts\": minimise the launcher, or keep it open\n- Your PlayOff One account is checked automatically every time you join Raidline. Nothing to click\n- The loading screen closes with Esc or Alt+Tab\n- Close game is also in the tray menu",
+  "pub_date": "2026-11-12T20:09:32.414Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1RnRFczbzRUUUNQUkJ5TnNDMGRVdmxrbDhGNmtuL0JyMmVka29URnljWEE0TnRQanRrUmFqTVpRWlBMUnRuZ0t0NC9iZUhrMDJGVU1sc0wyMkRRUndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDkyMTM0CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpnM0F4dEQzRFEwOFYrTCtuQ2hrSGhDa2gxWkhUUjhaZjhlQXhvUXdzQ0xKNDVrM3VpWXFwVkFvelJvQVJEcmE4RlpFTnRtN3A2QnFMSlZCa0htOGpCZz09Cg==",
-      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.8.1/PlayOffOneSetup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1RtWmwwNmtBRXg0WlprakQ5NVY3ZFN6NERXTGJRck5PdTE2bUVFOXV0dW56MUhQMEVTbkNsclVsZjc2U05hYTY4VExVUDUvcEhXYmtQMmMrQUJHSXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTE0MDM5CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQplYWFNSjRFVWR4U29HOExoL3R1T2gxeWxzQ3d5blVCekl4LzVJeTdvYlFnWFlzeXZWODdzZDQ5RVBvdWNROTA1VDZsd2dMK1NxdXBRR05EbFMwVFNBUT09Cg==",
+      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.9.0/PlayOffOneSetup.exe"
     }
   }
 }

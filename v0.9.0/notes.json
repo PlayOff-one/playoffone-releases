@@ -1,0 +1,30 @@
+{
+  "en": [
+    "Raidline now runs in its own window, like on Steam: the launcher steps aside when you press Play, and the tray icon, the desktop shortcut or Alt+Tab bring it back",
+    "Settings → General → \"When a game starts\": minimise the launcher, or keep it open",
+    "Your PlayOff One account is checked automatically every time you join Raidline. Nothing to click",
+    "The loading screen closes with Esc or Alt+Tab",
+    "Close game is also in the tray menu"
+  ],
+  "he": [
+    "Raidline רץ עכשיו בחלון משלו, כמו ב־Steam: המשגר זז הצידה כשלוחצים על שחק, והאייקון במגש, קיצור הדרך בשולחן העבודה או Alt+Tab מחזירים אותו",
+    "הגדרות ← כללי ← \"כשמשחק מתחיל\": למזער את המשגר או להשאיר אותו פתוח",
+    "חשבון ה־PlayOff One שלך נבדק אוטומטית בכל כניסה ל־Raidline. אין על מה ללחוץ",
+    "מסך הטעינה נסגר עם Esc או Alt+Tab",
+    "\"סגור משחק\" נמצא גם בתפריט המגש"
+  ],
+  "ru": [
+    "Raidline теперь работает в своём окне, как в Steam: лаунчер уходит в сторону, когда вы нажимаете «Играть», а значок в трее, ярлык на рабочем столе или Alt+Tab возвращают его",
+    "Настройки → Общие → «Когда запускается игра»: свернуть лаунчер или оставить открытым",
+    "Ваш аккаунт PlayOff One проверяется автоматически при каждом входе в Raidline. Ничего нажимать не нужно",
+    "Экран загрузки закрывается клавишей Esc или Alt+Tab",
+    "«Закрыть игру» теперь есть и в меню в трее"
+  ],
+  "ar": [
+    "يعمل Raidline الآن في نافذته الخاصة، كما في Steam: يتنحى المشغّل جانبًا عند الضغط على «العب»، وتعيده أيقونة شريط المهام أو اختصار سطح المكتب أو Alt+Tab",
+    "الإعدادات ← عام ← «عند بدء لعبة»: تصغير المشغّل أو إبقاؤه مفتوحًا",
+    "يتم التحقق من حساب PlayOff One الخاص بك تلقائيًا في كل مرة تنضم فيها إلى Raidline. لا حاجة للنقر على شيء",
+    "تُغلق شاشة التحميل بالضغط على Esc أو Alt+Tab",
+    "«إغلاق اللعبة» موجود أيضًا في قائمة شريط المهام"
+  ]
+}
