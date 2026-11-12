@@ -1,11 +1,11 @@
 {
-  "version": "0.9.1",
-  "notes": "- Play connects you straight to Raidline again\n- The loading screen stays over FiveM and the Rockstar launcher until you're in the lobby (Esc or Alt+Tab still close it)\n- The launcher minimises once you're in the lobby",
-  "pub_date": "2026-11-12T21:36:50.162Z",
+  "version": "0.9.2",
+  "notes": "- Server status no longer jumps to Offline on one missed check: it shows Checking… first and says Offline only after three failed checks in a row\n- Play connects to the same server address that answered the status check\n- The status keeps updating while the launcher is in the tray",
+  "pub_date": "2026-11-12T22:37:33.379Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1ZZM3oyNUZkblRtWmhxNEtEZzZqQjVaQS9iVDVLSzFpVmJuNlEwbzk4QnlyR0dDNXQ1Tit0bTVaVGM5OFNYZ3FTeGhsNlZkb0o0d2hCOEdlSm1aL1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTE5Mzg2CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQptWFFZam1jVjQxVnlzVFVVeHBwQXNSMUViV0lXbE5ibEVEbmFDV2tpZkE3YzVxUk1rZWg1cXNFMy96NGpIdXQxd0lSR0lnaERUUW02eTFlZHBQemZEdz09Cg==",
-      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.9.1/PlayOffOneSetup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR2Noc1orYVAzTkFUdXVPR25oR2loVEFTMzlXVXJyRTFuNzIxWWZod05KcFF5VklDdGo5YnBTMDZXbXo0SzZXLzBVdmoxcXVLRzZ3eDdCMHJIemh6bXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTIzMDM0CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQorSkNIS280RHZIS2M2MVViRHhzb1RacDdmRW15WmNVcTFDdzBJS1FtWHlDUjBONjZvMG51eFBidUtRV1NGYmlVZWtUMmwwbm1yeDBJOXJQclNGNHJBZz09Cg==",
+      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.9.2/PlayOffOneSetup.exe"
     }
   }
 }
