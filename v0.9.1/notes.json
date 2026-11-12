@@ -1,0 +1,22 @@
+{
+  "en": [
+    "Play connects you straight to Raidline again",
+    "The loading screen stays over FiveM and the Rockstar launcher until you're in the lobby (Esc or Alt+Tab still close it)",
+    "The launcher minimises once you're in the lobby"
+  ],
+  "he": [
+    "שחק מחבר אותך שוב ישר ל־Raidline",
+    "מסך הטעינה נשאר מעל FiveM והמשגר של Rockstar עד שנכנסים ללובי (Esc או Alt+Tab עדיין סוגרים אותו)",
+    "המשגר מתמזער כשנכנסים ללובי"
+  ],
+  "ru": [
+    "«Играть» снова подключает вас прямо к Raidline",
+    "Экран загрузки остаётся поверх FiveM и лаунчера Rockstar, пока вы не попадёте в лобби (Esc или Alt+Tab по-прежнему его закрывают)",
+    "Лаунчер сворачивается, когда вы попадаете в лобби"
+  ],
+  "ar": [
+    "«العب» يوصلك مباشرة إلى Raidline مرة أخرى",
+    "تبقى شاشة التحميل فوق FiveM ومشغّل Rockstar حتى تدخل الردهة (ما زال Esc أو Alt+Tab يغلقانها)",
+    "يُصغَّر المشغّل عند دخولك الردهة"
+  ]
+}
