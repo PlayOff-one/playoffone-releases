@@ -1,11 +1,11 @@
 {
-  "version": "0.9.2",
-  "notes": "- Server status no longer jumps to Offline on one missed check: it shows Checking… first and says Offline only after three failed checks in a row\n- Play connects to the same server address that answered the status check\n- The status keeps updating while the launcher is in the tray",
-  "pub_date": "2026-11-12T22:37:33.379Z",
+  "version": "0.9.3",
+  "notes": "- Live server status: Raidline reports itself, so Online, Restarting…, Maintenance and Offline change by themselves within seconds\n- While the server restarts, Play says \"Server restarting — back in a moment\" and comes back on its own\n- Home, the sidebar and the tray always show the same status",
+  "pub_date": "2026-11-12T23:28:10.127Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR2Noc1orYVAzTkFUdXVPR25oR2loVEFTMzlXVXJyRTFuNzIxWWZod05KcFF5VklDdGo5YnBTMDZXbXo0SzZXLzBVdmoxcXVLRzZ3eDdCMHJIemh6bXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTIzMDM0CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQorSkNIS280RHZIS2M2MVViRHhzb1RacDdmRW15WmNVcTFDdzBJS1FtWHlDUjBONjZvMG51eFBidUtRV1NGYmlVZWtUMmwwbm1yeDBJOXJQclNGNHJBZz09Cg==",
-      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.9.2/PlayOffOneSetup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1hqQWVmNDVHWnZtdS9DSDY4VkxLYWVwemlVaFBHQlFtbm83OGEyeDlaRFN1Zzd0NVYvcFNGekpyQ1QvTkQvcHRxSmhzd0c4QVY3bDQ5VG4wL3c0SlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTI2MDY5CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpZOGluN1RDMVJFUFY2MW41eENhY2JUNlRIcnNhMnNFazNxVDZCWElXLzRUSjl6ZlhiemNYanR5N3N6Zjl5OTVqUXc3UVl3Vm9yNHhUeWp6UmxvRDhCdz09Cg==",
+      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.9.3/PlayOffOneSetup.exe"
     }
   }
 }
