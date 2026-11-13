@@ -1,11 +1,11 @@
 {
-  "version": "0.9.4",
-  "notes": "- Play checks that the server is really up before starting the game; if it isn't, nothing starts and you see Offline at once\n- Offline shows within seconds when the server stops\n- Joining Raidline now always goes through the launcher\n- If you get disconnected, the game card says so, with Reconnect and Close game; the play timer is fixed\n- During maintenance Play waits, and Notify me tells you when it's over",
-  "pub_date": "2026-11-13T00:25:56.872Z",
+  "version": "0.10.0",
+  "notes": "- News: a new News page with updates, announcements, events and dev diaries, and the latest posts on Home\n- New posts get a badge on News until you read them\n- If a launcher update is waiting, Play installs it first instead of starting the game",
+  "pub_date": "2026-11-13T01:08:33.361Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1ZlL0NsN0VtWEVYSG9TcEtFOFVHd2xlemFBSjQxTDFZSzdmdUdMeEpUY0hKNjVwS00wRGtoZXpacE13SzZZeURDMmdreW1RTWt2a01WbTV6Y01xbnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTI5NTMzCWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQplRzQwVUN5SVMyQzgvWmVxanNRRnhJRFF1Q0kwQmd2RktkL3krTDhrcXMwNDJ1TUUvR0hFdGZucm95aUpuV05tUnZieFdYcHh6NG5FaUg3RFE2RnhDZz09Cg==",
-      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.9.4/PlayOffOneSetup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1YrMVB1YmVoNWZEQ0pscEY1bFJqL0hDQ2dYdENZUkswQi9UbVgzZWhxVW45a3hPbG5tL2FFQnFXUGRDK1dGSlllbmJNKzEvam9idGUybm43V1U3NFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTMyMDkyCWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQo3cEwwMUVPVm5OL01vMFlhQ0VVVGUyZFVkYStJZGF1SERJZCsyalVDSEd5WC9rZ3UrelM4SEpTSjlOR051eHNZeE1zakdPb3kxa25HVlNpT0JkeXdBdz09Cg==",
+      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.10.0/PlayOffOneSetup.exe"
     }
   }
 }
