@@ -1,11 +1,11 @@
 {
-  "version": "0.10.3",
-  "notes": "- Behind the scenes: our team can now preview a news post in the launcher before it is published",
-  "pub_date": "2026-11-13T02:31:47.221Z",
+  "version": "0.11.0",
+  "notes": "- Support: open a ticket from the launcher (a bug, a player report, your account, a ban appeal) and chat with our team in it\n- Add screenshots, and on a bug ticket attach the launcher's logs; you see exactly which files are sent\n- A badge and a notification when the team answers\n- Times read right: 1 hr 41 min, in every language",
+  "pub_date": "2026-11-13T03:22:23.069Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1diR0dmVHlycUJNVkd6VDlHVEQ0aWpBbkltTGNrdjl5TG9RdlFUQzNxY0VWdTVnZHB5S0phYTE0L2owa0ZxNkQxUmlsek15eXVNbHRodXdNczYrY1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTM3MDg5CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpqbkNJN0ZHL0NkYWpWODQ0Z1ZYTkV0TmpxblRuclZIVVg2bjVGYUc0SG9PdE5WTHFRVEpEMkg5MnpwQW1valVSZzcyY1J6MHUyQUlad0oxMHY1VmpCUT09Cg==",
-      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.10.3/PlayOffOneSetup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR2FZQWVpd0txZDk4K3lsYkNOSk1lK2pmVGZjczl6TGRLS2xocTVtbFZjVnlxc3RuWWMyR0ZQZGRPUVlDc1RNcUVsL1Q1bGZJTFdhVzZzbkVxdWpya2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQwMTIzCWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpNWmdzcnNobi9zbnRYUkR2Lytzd3dXVUVxS2RqYjM0VFBseDdxYzVGTlBlc2J3bzhqdnkzcmQvZW91M0J4UFNtN2NOc3JxNlJLT0tNMWw1UGNtVlREdz09Cg==",
+      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.11.0/PlayOffOneSetup.exe"
     }
   }
 }
