@@ -1,11 +1,11 @@
 {
-  "version": "0.12.0",
-  "notes": "- Join the team: apply for a role from your Profile (or the account menu) and follow your application right here\n- The team's answer comes in the launcher, with a notification\n- Time played now comes from the game server itself, the same on every PC you use",
-  "pub_date": "2026-11-13T06:35:17.481Z",
+  "version": "0.13.0",
+  "notes": "- When the team is fixing a known issue or planning maintenance, the server card on Home tells you\n- Behind the scenes: a new staff area for our team, protected by two-step verification",
+  "pub_date": "2026-11-13T07:33:23.690Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR2ZuM3pMQUNDZlFJY29xdlhoWmpveko5ZHB5b0pHUWorSjRSVUdSZzBxQTJKWWN0UitNOWt5dStmYUZxQnFydHBuQ3hXRXQzU0hadEV0OGJjUTlXSVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTUxNjk1CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpNWTRIOEpIT2ZhMzRYVE1tTlhMcno5SHczU1FnVm1YNWsydkg0TXhuZ2VaNE1VejJWQ1VHRGs2UmFzN0ZiY3UxWXNNL2ZhNStFZDI3b2pVUGdqWnpDQT09Cg==",
-      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.12.0/PlayOffOneSetup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1lNb2ZlTHBzZjRPMHhEUUVzOUo2Tk4vMjhpb2F6RzlTNG91ZVJXcW5IdXBTQzVaMU9kQkwwQXlmTXpZRit1aUlWeW9EaVFiYjdPbi9PdGVLckJOTUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTU1MTgyCWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQovTnZkb2VvdDQ5OWRDaXFUMSttRGlyb1VxNnI3UldXajBjMnhWQzRxTWc4RTNOYWIwUER3UkUvN1RkS2JVbVN4dzFhMjJwWkRqd2gzZ0pOVkpTZ0RBQT09Cg==",
+      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.13.0/PlayOffOneSetup.exe"
     }
   }
 }
