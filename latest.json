@@ -1,11 +1,11 @@
 {
-  "version": "0.10.2",
-  "notes": "- Fixed: while you played, pages opened in the launcher stayed empty. Every page now opens at once during a game\n- The server status updates live whenever the launcher is open, also during a game\n- The add-friend button next to Search fits inside the Friends panel again",
-  "pub_date": "2026-11-13T02:16:25.314Z",
+  "version": "0.10.3",
+  "notes": "- Behind the scenes: our team can now preview a news post in the launcher before it is published",
+  "pub_date": "2026-11-13T02:31:47.221Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1ZPQ05hVWZNVStmMG5MNmJjVHBiakY3eWpHVmdjZlpQQnRvSTdBaUpRTkNCd2tUeWN2VHRFTW9EeG1XRUNFQmtoTDFqR3ZKN0hTWVdWQnhJVGZHTGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTM2MTU3CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQozVW9VNEk1VkRyS1JVR3JLWFZWVWZQUEd5Qmkza1FoV0RXekxBT2JqdEFicHFhSW1SUWlPMVJVNklxWGxaY2FodUViTDFZaVQ2aVUwS1FOSkRzT1pCUT09Cg==",
-      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.10.2/PlayOffOneSetup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1diR0dmVHlycUJNVkd6VDlHVEQ0aWpBbkltTGNrdjl5TG9RdlFUQzNxY0VWdTVnZHB5S0phYTE0L2owa0ZxNkQxUmlsek15eXVNbHRodXdNczYrY1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTM3MDg5CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpqbkNJN0ZHL0NkYWpWODQ0Z1ZYTkV0TmpxblRuclZIVVg2bjVGYUc0SG9PdE5WTHFRVEpEMkg5MnpwQW1valVSZzcyY1J6MHUyQUlad0oxMHY1VmpCUT09Cg==",
+      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.10.3/PlayOffOneSetup.exe"
     }
   }
 }
