@@ -1,11 +1,11 @@
 {
-  "version": "0.10.0",
-  "notes": "- News: a new News page with updates, announcements, events and dev diaries, and the latest posts on Home\n- New posts get a badge on News until you read them\n- If a launcher update is waiting, Play installs it first instead of starting the game",
-  "pub_date": "2026-11-13T01:08:33.361Z",
+  "version": "0.10.1",
+  "notes": "- Empty lists now show a clear message with an icon and a short explanation\n- No more back arrow on main pages like Home, Library and News",
+  "pub_date": "2026-11-13T01:40:05.641Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1YrMVB1YmVoNWZEQ0pscEY1bFJqL0hDQ2dYdENZUkswQi9UbVgzZWhxVW45a3hPbG5tL2FFQnFXUGRDK1dGSlllbmJNKzEvam9idGUybm43V1U3NFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTMyMDkyCWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQo3cEwwMUVPVm5OL01vMFlhQ0VVVGUyZFVkYStJZGF1SERJZCsyalVDSEd5WC9rZ3UrelM4SEpTSjlOR051eHNZeE1zakdPb3kxa25HVlNpT0JkeXdBdz09Cg==",
-      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.10.0/PlayOffOneSetup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1Fpa1d4MzgwbitwRk9EaDh1WGpQVTRKcmpsNHBIdC9xT0g4R1E3ZUd1QVAwTXc1ZmEwSHlvSy9LQWMxcExZOGtwOWJuYWRLY244MnF0dnh2cHR4S0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTMzOTc5CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpaYnMwckFzeDdTcEVKZFV3Rlpyc0twVzNOeDVqSlY4VWdIclg3VFpMak8xMlcyZ245aWV1TE9PQ1dSNzBNSEdFTVlFYmJSK1ppTHJXUzZDNUR5VnBCQT09Cg==",
+      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.10.1/PlayOffOneSetup.exe"
     }
   }
 }
