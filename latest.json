@@ -1,11 +1,11 @@
 {
-  "version": "0.9.3",
-  "notes": "- Live server status: Raidline reports itself, so Online, Restarting…, Maintenance and Offline change by themselves within seconds\n- While the server restarts, Play says \"Server restarting — back in a moment\" and comes back on its own\n- Home, the sidebar and the tray always show the same status",
-  "pub_date": "2026-11-12T23:28:10.127Z",
+  "version": "0.9.4",
+  "notes": "- Play checks that the server is really up before starting the game; if it isn't, nothing starts and you see Offline at once\n- Offline shows within seconds when the server stops\n- Joining Raidline now always goes through the launcher\n- If you get disconnected, the game card says so, with Reconnect and Close game; the play timer is fixed\n- During maintenance Play waits, and Notify me tells you when it's over",
+  "pub_date": "2026-11-13T00:25:56.872Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1hqQWVmNDVHWnZtdS9DSDY4VkxLYWVwemlVaFBHQlFtbm83OGEyeDlaRFN1Zzd0NVYvcFNGekpyQ1QvTkQvcHRxSmhzd0c4QVY3bDQ5VG4wL3c0SlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTI2MDY5CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpZOGluN1RDMVJFUFY2MW41eENhY2JUNlRIcnNhMnNFazNxVDZCWElXLzRUSjl6ZlhiemNYanR5N3N6Zjl5OTVqUXc3UVl3Vm9yNHhUeWp6UmxvRDhCdz09Cg==",
-      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.9.3/PlayOffOneSetup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1ZlL0NsN0VtWEVYSG9TcEtFOFVHd2xlemFBSjQxTDFZSzdmdUdMeEpUY0hKNjVwS00wRGtoZXpacE13SzZZeURDMmdreW1RTWt2a01WbTV6Y01xbnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTI5NTMzCWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQplRzQwVUN5SVMyQzgvWmVxanNRRnhJRFF1Q0kwQmd2RktkL3krTDhrcXMwNDJ1TUUvR0hFdGZucm95aUpuV05tUnZieFdYcHh6NG5FaUg3RFE2RnhDZz09Cg==",
+      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.9.4/PlayOffOneSetup.exe"
     }
   }
 }
