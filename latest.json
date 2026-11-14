@@ -1,11 +1,11 @@
 {
-  "version": "0.14.1",
-  "notes": "- Behind the scenes: improvements to the staff area",
-  "pub_date": "2026-11-14T22:33:30.569Z",
+  "version": "0.14.2",
+  "notes": "- A page that can't load now tells you within 10 seconds and offers Retry, instead of waiting forever\n- Behind the scenes: a new Players page in the staff area",
+  "pub_date": "2026-11-14T23:08:54.781Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR2ZGdkd1eE9DNVUxQlVxdUNkQS9mMUJZdnJ5R2YvRGVYZEFlelpsL0lFN3VVNkFveUhxcjhDNGRxSmNkUld1bll6dVhVL2FsUmVpY2lMcEtnSlcrQlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njk1NTg5CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQowL2lWYmVKL1F5dG95T2gyOGVOMndQREpiS1BtMncxbnNrN0k5OWlzakhGVlZFaTlWUmk1UTdNZG5SWW40R0p6eW9OMEcvOTVUS3ZLekZGL2hLdUlEUT09Cg==",
-      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.14.1/PlayOffOneSetup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1ZXeGRoMXEveDNPalRTcG5KdFNLUzlUeVpoZHFhK1dEdDJyS2Y1SHpHRmRrY0I3Z3JFSVJzdmVyQ21ndWNaWHpzazF6dGJ1QVY2Mmc4c09URWVQRGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njk3NzA5CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpjR25HQ0ZaRG85UGZWNU1neS90dC8rZUdDc2dGRGlhUDZLTDN3aWhIMURoRUR4MHpwREthZUJYNU9hM1V4UnA1WndlWk43S0tlUVpxVTV2RGh4RklBZz09Cg==",
+      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.14.2/PlayOffOneSetup.exe"
     }
   }
 }
