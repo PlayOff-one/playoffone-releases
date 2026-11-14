@@ -1,11 +1,11 @@
 {
-  "version": "0.13.0",
-  "notes": "- When the team is fixing a known issue or planning maintenance, the server card on Home tells you\n- Behind the scenes: a new staff area for our team, protected by two-step verification",
-  "pub_date": "2026-11-13T07:33:23.690Z",
+  "version": "0.13.1",
+  "notes": "- Behind the scenes: improvements to the staff area",
+  "pub_date": "2026-11-14T21:23:24.495Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1lNb2ZlTHBzZjRPMHhEUUVzOUo2Tk4vMjhpb2F6RzlTNG91ZVJXcW5IdXBTQzVaMU9kQkwwQXlmTXpZRit1aUlWeW9EaVFiYjdPbi9PdGVLckJOTUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTU1MTgyCWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQovTnZkb2VvdDQ5OWRDaXFUMSttRGlyb1VxNnI3UldXajBjMnhWQzRxTWc4RTNOYWIwUER3UkUvN1RkS2JVbVN4dzFhMjJwWkRqd2gzZ0pOVkpTZ0RBQT09Cg==",
-      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.13.0/PlayOffOneSetup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1F1Q2NBTmFvZWdDc1dLeW0xY2hUdk4zNjdNL2lxaUYyMUE1N1loYXNHdWNsUk5JVDJtYTJURlhZTGlZV0JDczlOaUcxWHdocERLcWZmN3E3RWZPWkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjkxMzc3CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpaTFhkdklsaW1VdDVvS2gzOUdXWm5CVHMxaEwzems4aUhQZklvb1FqaXBXcTF3bFo0MXkvK3J6d0pndlNXZ253UFBZcU5xUnR2d3VJVVRYQ01GVHhCdz09Cg==",
+      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.13.1/PlayOffOneSetup.exe"
     }
   }
 }
