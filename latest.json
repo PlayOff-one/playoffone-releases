@@ -1,11 +1,11 @@
 {
-  "version": "0.13.1",
-  "notes": "- Behind the scenes: improvements to the staff area",
-  "pub_date": "2026-11-14T21:23:24.495Z",
+  "version": "0.14.0",
+  "notes": "- Clearer moderation: a ban now shows the rule in your language and its case number, so you can appeal it from Support\n- If our team warns your account, you see the warning once, in your language\n- Behind the scenes: new moderation tools for our team",
+  "pub_date": "2026-11-14T22:04:34.143Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1F1Q2NBTmFvZWdDc1dLeW0xY2hUdk4zNjdNL2lxaUYyMUE1N1loYXNHdWNsUk5JVDJtYTJURlhZTGlZV0JDczlOaUcxWHdocERLcWZmN3E3RWZPWkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjkxMzc3CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpaTFhkdklsaW1VdDVvS2gzOUdXWm5CVHMxaEwzems4aUhQZklvb1FqaXBXcTF3bFo0MXkvK3J6d0pndlNXZ253UFBZcU5xUnR2d3VJVVRYQ01GVHhCdz09Cg==",
-      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.13.1/PlayOffOneSetup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR2JxRXZmZTg3bnFUR01saHFSM0owdE9Fdng1SDk4bzFMYnp2K2hBektqcGtkNjdKZGt5SGFVbGR5NzlHYTBuSUV3cXJkQlE1TmRVeU4wa1BEVzBSOUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjkzODU1CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpFaEVZS013TUowek42bkNKOTB4STRETGFBN2djZjNlT01iYmVYU1YwblcxTUZUUk8xSmlJbjllMXNFSDBHV2hGL1NlZzB6cGNxT21Oa0hUTGZjWDFDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.14.0/PlayOffOneSetup.exe"
     }
   }
 }
