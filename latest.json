@@ -1,11 +1,11 @@
 {
-  "version": "0.14.3",
-  "notes": "- Behind the scenes: staff tools explain every refusal",
-  "pub_date": "2026-11-14T23:53:20.487Z",
+  "version": "0.14.4",
+  "notes": "- Home: the news card lines up again\n- Dialogs always fit the window\n- Fixes for Hebrew, Arabic and Russian text",
+  "pub_date": "2026-11-15T18:36:19.302Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR2JiU1ZKRXp4Sk96ZU5selEwbnZrMENEYnZrOWlxclF0NnAzbDdWeFdPWVJRc2trTnZQSlRkZ3FMZkZaQ0EyMkhBQXc4a3NQNk1zREh2bGdBL3JEZXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzAwMzc2CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpOREpWaVA1MkgvVzBkYmJqWVNrV0xhREw4Y1FLbFhqODdVRWxGVmMvRlJ1eEs4K1NyUmxXQngwbGE2UGRUZEJ6aVB1NGp0STR2N1FteTJwa1ZqOGtDdz09Cg==",
-      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.14.3/PlayOffOneSetup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1I0RUpMODJweDFWaUQ3VEpmVkp3dEZ0aWVBdm9FZzVmYS8vcWtUMHZUZDdnaGNLLytOVExiWGxVWVQycDNjNGVUU2JmOXZPVG0rWlA4WVV2ZjdKU3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzY3NzUzCWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQpxU1h2dnJvSkhneHJiOFgwblByV3pwMjFoRUZla1VnRWtmeitFRzVsWkxKZ1pQZ0hvUE9oSytXTyt1djkrVWlQcXdQM0lUTWdocHBScDhnTVlQd0REQT09Cg==",
+      "url": "https://raw.githubusercontent.com/PlayOff-one/playoffone-releases/main/v0.14.4/PlayOffOneSetup.exe"
     }
   }
 }
